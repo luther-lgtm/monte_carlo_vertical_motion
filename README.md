@@ -3,7 +3,7 @@
 🔗 **Original model built in Google Sheets:**  
 https://docs.google.com/spreadsheets/d/1uag_EHIpRTyykQFWzIN6hjBPhMk0EXLU7_RQN3mNygo/edit?usp=sharing
 
-🔗 **Run the analysis notebook in Google Colab (Chromebook-compatible):**  
+🔗 **Run the analysis notebook in Google Colab:**  
 https://colab.research.google.com/drive/12u_qRsGwf-Q0_YUudEXgws8Nn-L8Y8w3
 
 
