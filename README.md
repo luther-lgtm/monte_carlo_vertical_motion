@@ -1,5 +1,17 @@
 # Monte Carlo Simulation of Vertical Motion Under Uncertainty
 
+🔗 **Original model built in Google Sheets (no advanced software):**  
+https://docs.google.com/spreadsheets/d/1uag_EHIpRTyykQFWzIN6hjBPhMk0EXLU7_RQN3mNygo/edit?usp=sharing
+
+🔗 **Run the analysis notebook in Google Colab (Chromebook-compatible):**  
+https://colab.research.google.com/drive/12u_qRsGwf-Q0_YUudEXgws8Nn-L8Y8w3
+
+🔗 **View the GitHub repository:**  
+https://github.com/luther-lgtm/monte_carlo_vertical_motion.ipynb/tree/main
+
+
+
+
 ## Overview
 This project uses a Monte Carlo simulation to model one-dimensional vertical motion and examine how randomness in initial velocity affects trajectory and maximum height. The model combines classical kinematics with probabilistic sampling to study uncertainty propagation in a physical system.
 
